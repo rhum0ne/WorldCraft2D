@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Keys
+comment0.text=\r\n\ The\ Key\ enum\ represents\ the\ keys\ used\ in\ the\ game.\r\n\ \r\n\ @version\ 1.0\r\n
+comment1.params=function
+comment1.target=Keys(Key)
+comment2.params=
+comment2.target=void\ createKeys()
+comment2.text=\r\n\ Creates\ the\ key\ mapping.\r\n
+comment3.params=pKey
+comment3.target=Keys\ getKey(int)
+comment3.text=\r\n\ Gets\ the\ key\ associated\ with\ the\ given\ key\ code.\r\n\ \r\n\ @param\ pKey\ The\ key\ code.\r\n\ @return\ The\ corresponding\ Key\ enum\ value,\ or\ null\ if\ not\ found.\r\n
+comment4.params=player
+comment4.target=void\ press(entities.Player)
+comment5.params=player
+comment5.target=void\ release(entities.Player)
+comment6.params=
+comment6.target=boolean\ isRepeatable()
+comment7.params=pKey
+comment7.target=boolean\ exists(int)
+comment7.text=\r\n\ Checks\ if\ a\ key\ with\ the\ given\ key\ code\ exists.\r\n\ \r\n\ @param\ pKey\ The\ key\ code\ to\ check.\r\n\ @return\ True\ if\ the\ key\ exists,\ false\ otherwise.\r\n
+numComments=8

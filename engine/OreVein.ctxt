@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=OreVein
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ OreVein\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=type\ min\ max\ rate
+comment1.target=OreVein(Material,\ int,\ int,\ int)
+comment2.params=
+comment2.target=Material\ getType()
+comment3.params=
+comment3.target=int\ getMin()
+comment4.params=
+comment4.target=int\ getMax()
+comment5.params=
+comment5.target=int\ getSpawnRate()
+numComments=6

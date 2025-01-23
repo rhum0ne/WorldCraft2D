@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PlayerTask
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ PlayerTask\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=player
+comment1.target=PlayerTask(Player)
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=void\ all5Seconds()
+numComments=4

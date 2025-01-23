@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Chat
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Chat\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=pEngine
+comment1.target=Chat(engine.GameEngine)
+comment2.params=
+comment2.target=void\ place()
+comment3.params=message
+comment3.target=void\ showMessage(java.lang.String)
+comment4.params=
+comment4.target=void\ write()
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=6

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=WorldTask
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ WorldTask\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=pEngine\ pWorld
+comment1.target=WorldTask(GameEngine,\ World)
+comment2.params=
+comment2.target=void\ run()
+numComments=3

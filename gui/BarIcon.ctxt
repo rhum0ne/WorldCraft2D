@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BarIcon
+comment0.text=\r\n\ The\ BarIcon\ class\ represents\ an\ icon\ used\ to\ display\ the\ Player's\ statistics.\r\n\ \r\n\ @version\ 1.0\r\n
+comment1.params=pBar\ pX
+comment1.target=BarIcon(Bar,\ int)
+comment1.text=\r\n\ Constructs\ a\ BarIcon\ object.\r\n\ \r\n\ @param\ pBar\ The\ bar\ associated\ with\ the\ icon.\r\n\ @param\ pX\ The\ x-coordinate\ position\ of\ the\ icon.\r\n
+comment2.params=pIcon
+comment2.target=void\ setState(javax.swing.ImageIcon)
+comment2.text=\r\n\ Sets\ the\ state\ of\ the\ bar\ icon.\r\n\ \r\n\ @param\ pState\ The\ state\ to\ set\ for\ the\ bar\ icon.\r\n
+numComments=3

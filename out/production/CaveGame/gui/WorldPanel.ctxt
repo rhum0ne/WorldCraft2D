@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=WorldPanel
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ WorldPanel\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=pEngine\ pGUI
+comment1.target=WorldPanel(engine.GameEngine,\ UserInterface)
+comment2.params=pix
+comment2.target=void\ addX(int)
+comment2.text=public\ void\ replace(){\r\n\ \ \ \ \ \ \ \ //int\ w\ \=\ this.getParent().getParent().getWidth();\r\n\ \ \ \ \ \ \ \ int\ h\ \=\ this.getParent().getParent().getHeight();\r\n\ \ \ \ \ \ \ \ this.setBounds(this.getX(),\ this.getY(),\ this.getWidth(),\ this.getHeight());\r\n}
+comment3.params=pix
+comment3.target=void\ addY(int)
+comment4.params=
+comment4.target=java.util.List\ getBlocks()
+comment5.params=
+comment5.target=engine.WorldEventsListener\ getEventListener()
+comment6.params=number
+comment6.target=void\ createBlocks(int)
+comment7.params=x
+comment7.target=void\ createBlock(int)
+numComments=8

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TickingBlock
+comment0.text=\r\n\ D\u00E9crivez\ votre\ interface\ TickingBlock\ ici.\r\n\r\n\ @author\ \ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=block
+comment1.target=void\ tick(Block)
+numComments=2

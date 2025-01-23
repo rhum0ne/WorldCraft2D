@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=GameMenuPanel
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ MainMenu\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=pEngine\ pGUI
+comment1.target=GameMenuPanel(engine.GameEngine,\ UserInterface)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=MainMenuPanel\ getMainMenuPanel()
+comment4.params=
+comment4.target=WorldLoadPanel\ getWorldLoadingPanel()
+comment5.params=
+comment5.target=WorldCreationPanel\ getWorldPanel()
+comment6.params=panel
+comment6.target=void\ set(javax.swing.JPanel)
+comment7.params=pGraph
+comment7.target=void\ paintComponent(java.awt.Graphics)
+comment7.text=\r\n\ Custom\ painting\ method\ to\ draw\ the\ background\ image\ on\ the\ panel.\r\n\r\n\ @param\ pGraph\ The\ graphics\ context\ to\ paint.\r\n
+numComments=8

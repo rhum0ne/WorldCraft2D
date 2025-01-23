@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ItemInfoPanel
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ ItemInfoPanel\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=
+comment1.target=ItemInfoPanel()
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ ItemInfoPanel\r\n
+comment2.params=pX\ pY
+comment2.target=void\ setPos(int,\ int)
+comment3.params=pItem
+comment3.target=void\ setItem(entities.Item)
+comment4.params=pGraph
+comment4.target=void\ paintComponent(java.awt.Graphics)
+comment4.text=\r\n\ Custom\ painting\ method\ to\ draw\ the\ background\ image\ on\ the\ panel.\r\n\r\n\ @param\ pGraph\ The\ graphics\ context\ to\ paint.\r\n
+numComments=5

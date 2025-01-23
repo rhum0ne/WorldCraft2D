@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=WorldLoadPanel
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ WorldCreationPanel\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=menu\ pEngine\ pGUI
+comment1.target=WorldLoadPanel(GameMenuPanel,\ engine.GameEngine,\ UserInterface)
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ WorldCreationPanel\r\n
+comment2.params=e
+comment2.target=void\ adjustmentValueChanged(java.awt.event.AdjustmentEvent)
+comment3.params=pE
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=4

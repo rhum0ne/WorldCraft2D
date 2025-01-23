@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CreateButton
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ CreateButton\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=panel\ pEngine
+comment1.target=CreateButton(GameMenuPanel,\ engine.GameEngine)
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ PlayButton\r\n
+comment2.params=
+comment2.target=void\ run()
+comment3.params=name
+comment3.target=boolean\ exists(java.lang.String)
+numComments=4

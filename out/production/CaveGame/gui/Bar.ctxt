@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Bar
+comment0.text=\r\n\ The\ Bar\ class\ represents\ a\ graphical\ bar\ in\ the\ game\ interface.\r\n\ \r\n\ @version\ 1.0\r\n
+comment1.params=icons\ pConstant\ pHeight
+comment1.target=Bar(Icons,\ entities.EntityConstant,\ int)
+comment1.text=\r\n\ Constructs\ a\ Bar\ object.\r\n\ \r\n\ @param\ pPath\ The\ path\ of\ the\ bar\ icon\ images.\r\n\ @param\ pConstant\ The\ entity\ constant\ associated\ with\ the\ bar.\r\n\ @param\ pHeight\ The\ height\ of\ the\ bar.\r\n
+comment2.params=
+comment2.target=void\ createIcons()
+comment2.text=\r\n\ Sets\ the\ icons\ for\ the\ bar.\r\n
+comment3.params=icons
+comment3.target=void\ setIcons(Icons)
+comment3.text=\r\n\ Sets\ the\ path\ of\ the\ bar\ icon\ images.\r\n\ \r\n\ @param\ pPath\ The\ path\ of\ the\ bar\ icon\ images.\r\n
+comment4.params=
+comment4.target=void\ update()
+comment4.text=\r\n\ Updates\ the\ bar\ icons\ based\ on\ the\ current\ value\ of\ the\ associated\ entity\ constant.\r\n
+numComments=5

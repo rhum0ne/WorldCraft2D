@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Seed
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Seed\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=
+comment1.target=Seed\ random()
+comment2.params=enteredSeed
+comment2.target=Seed\ create(java.lang.String)
+comment3.params=a
+comment3.target=Seed\ create(int[])
+comment4.params=seed
+comment4.target=Seed(int[])
+comment4.text=\r\n\ Constructeur\ d'objets\ de\ classe\ Seed\r\n
+comment5.params=
+comment5.target=int[]\ get()
+comment6.params=i
+comment6.target=int\ get(int)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=KnifeData
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ ToolData\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=
+comment1.target=KnifeData()
+comment2.params=
+comment2.target=int\ getDamages()
+comment3.params=
+comment3.target=boolean\ isLootDoubled()
+numComments=4

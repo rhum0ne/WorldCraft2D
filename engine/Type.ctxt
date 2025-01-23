@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Type
+comment0.text=\r\n\ Enumeration\ Types\ -\ \u00E9crire\ ici\ la\ description\ de\ l'\u00E9num\u00E9ration\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (num\u00E9ro\ de\ version\ ou\ date)\r\n
+comment1.params=s
+comment1.target=Type(Sounds)
+comment2.params=
+comment2.target=Sounds\ getSound()
+numComments=3

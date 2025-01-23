@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=PlayerInventory
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ PlayerInventory\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=player
+comment1.target=PlayerInventory(Player)
+comment2.params=
+comment2.target=Item\ getItemInHand()
+comment3.params=a
+comment3.target=void\ setHandingSlot(int)
+comment4.params=
+comment4.target=void\ addHandingSlot()
+comment5.params=
+comment5.target=void\ remHandingSlot()
+numComments=6

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=AxeData
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ AxeData\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=
+comment1.target=AxeData()
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ AxeData\r\n
+comment2.params=block\ player
+comment2.target=void\ applyLeftClickEffect(Block,\ entities.LivingEntity)
+numComments=3

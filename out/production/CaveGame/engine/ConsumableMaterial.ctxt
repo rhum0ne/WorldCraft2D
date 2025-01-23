@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ConsumableMaterial
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ UsableMaterial\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=target
+comment1.target=boolean\ canConsume(LivingEntity)
+comment2.params=target
+comment2.target=void\ consume(LivingEntity)
+numComments=3

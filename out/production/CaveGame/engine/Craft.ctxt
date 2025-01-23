@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Craft
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Craft\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=items\ result
+comment1.target=Craft(Material[],\ entities.Item)
+comment2.params=
+comment2.target=Material[]\ getItems()
+comment3.params=
+comment3.target=entities.Item\ getResult()
+numComments=4

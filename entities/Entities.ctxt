@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Entities
+comment0.text=\r\n\ Enumeration\ Textures\ -\ \u00E9crire\ ici\ la\ description\ de\ l'\u00E9num\u00E9ration\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (num\u00E9ro\ de\ version\ ou\ date)\r\n
+comment1.params=pTexture
+comment1.target=Entities(java.lang.String)
+comment2.params=
+comment2.target=void\ loadTextures()
+comment3.params=
+comment3.target=javax.swing.ImageIcon\ getTexture()
+numComments=4

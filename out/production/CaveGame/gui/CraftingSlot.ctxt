@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=CraftingSlot
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ CraftingSlot\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=grid\ pPanel\ iPanel\ index\ pX\ pY
+comment1.target=CraftingSlot(CraftingGrid,\ InventoryPanel,\ ItemInfoPanel,\ int,\ int,\ int)
+comment2.params=
+comment2.target=CraftingGrid\ getCraftingGrid()
+numComments=3

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=EnteredCommand
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ EnteredCommand\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=typedCommand\ sender
+comment1.target=EnteredCommand(java.lang.String,\ entities.Player)
+comment2.params=
+comment2.target=java.lang.String\ getCommandWord()
+comment3.params=
+comment3.target=java.lang.String[]\ getArgs()
+comment4.params=
+comment4.target=entities.Player\ getSender()
+numComments=5

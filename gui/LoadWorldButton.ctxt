@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LoadWorldButton
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ PlayButton\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=panel\ pEngine
+comment1.target=LoadWorldButton(GameMenuPanel,\ GameEngine)
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ PlayButton\r\n
+comment2.params=
+comment2.target=void\ run()
+numComments=3

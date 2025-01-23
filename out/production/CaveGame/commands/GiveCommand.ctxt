@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GiveCommand
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ SummonCommand\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=pEngine
+comment1.target=GiveCommand(engine.GameEngine)
+comment2.params=sender\ label\ args
+comment2.target=void\ execute(entities.Player,\ java.lang.String,\ java.lang.String[])
+comment3.params=player\ args
+comment3.target=void\ giveAll(entities.Player,\ java.lang.String[])
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=InventoryListener
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ InventoryListener\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=pPanel\ pEngine
+comment1.target=InventoryListener(InventoryPanel,\ engine.GameEngine)
+comment1.text=\r\n\ Constructor\ for\ the\ InventoryListener\ class.\r\n\r\n\ @param\ pPanel\ \ The\ GuiPanel\ associated\ with\ the\ listener.\r\n\ @param\ pEngine\ The\ GameEngine\ associated\ with\ the\ listener.\r\n
+comment2.params=pE
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ Actionlistener\ interface\ for\ entry\ textfield.\r\n\ \r\n\ @param\ pE\ The\ ActionEvent\ that\ triggered\ the\ action.\r\n
+numComments=3

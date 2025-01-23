@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=InterfacePanel
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ InterfacePanel\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=pEngine\ pGUI
+comment1.target=InterfacePanel(engine.GameEngine,\ UserInterface)
+comment2.params=
+comment2.target=void\ replace()
+comment3.params=
+comment3.target=Chat\ getChat()
+comment4.params=
+comment4.target=InventoryPanel\ getInventory()
+numComments=5

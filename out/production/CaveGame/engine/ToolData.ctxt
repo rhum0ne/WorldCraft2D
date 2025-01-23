@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ToolData
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ ToolData\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=pType\ damages
+comment1.target=ToolData(Type,\ int)
+comment2.params=
+comment2.target=int\ getDamages()
+comment3.params=
+comment3.target=boolean\ isLootDoubled()
+comment4.params=material
+comment4.target=boolean\ hasEffectOn(Material)
+comment5.params=block
+comment5.target=boolean\ hasEffectOn(Block)
+comment6.params=block\ target
+comment6.target=void\ applyRightClickEffect(Block,\ entities.LivingEntity)
+comment7.params=block\ target
+comment7.target=void\ applyLeftClickEffect(Block,\ entities.LivingEntity)
+numComments=8

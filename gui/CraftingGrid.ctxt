@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CraftingGrid
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ CraftingGrid\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=size\ x\ y\ pPanel\ iPanel\ pEngine
+comment1.target=CraftingGrid(int,\ int,\ int,\ InventoryPanel,\ ItemInfoPanel,\ engine.GameEngine)
+comment2.params=
+comment2.target=CraftingSlot\ getResultSlot()
+comment3.params=index\ slot
+comment3.target=void\ setSlot(int,\ CraftingSlot)
+comment4.params=
+comment4.target=void\ updateResult()
+comment5.params=craft
+comment5.target=boolean\ isValid(engine.Craft)
+comment6.params=
+comment6.target=void\ craft()
+numComments=7

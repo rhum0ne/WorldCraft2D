@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Structure
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Structure\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=
+comment1.target=Structure()
+comment2.params=letter\ mat
+comment2.target=void\ setMaterial(char,\ Material)
+comment3.params=schem
+comment3.target=void\ setSchem(char[][])
+comment4.params=
+comment4.target=void\ validate()
+comment5.params=world\ loc
+comment5.target=void\ build(World,\ Location)
+numComments=6

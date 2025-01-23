@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=InventorySlot
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ InventoryItem\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=pPanel\ iPanel\ index\ pX\ pY
+comment1.target=InventorySlot(InventoryPanel,\ ItemInfoPanel,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ InventoryItem\r\n
+comment2.params=
+comment2.target=int\ getIndex()
+comment3.params=
+comment3.target=entities.Item\ getItem()
+comment4.params=pItem
+comment4.target=void\ setItem(entities.Item)
+comment5.params=
+comment5.target=boolean\ hasItem()
+comment6.params=
+comment6.target=InventoryPanel\ getPanel()
+numComments=7

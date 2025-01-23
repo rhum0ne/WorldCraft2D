@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CommandsManager
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ CommandsManager\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=pEngine
+comment1.target=CommandsManager(engine.GameEngine)
+comment2.params=
+comment2.target=void\ loadCommands()
+comment3.params=label\ command
+comment3.target=void\ addCommand(java.lang.String,\ Command)
+comment4.params=pCmd
+comment4.target=void\ executeCommand(EnteredCommand)
+comment5.params=
+comment5.target=engine.GameEngine\ getEngine()
+comment6.params=command
+comment6.target=boolean\ isCommand(EnteredCommand)
+numComments=7

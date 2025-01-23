@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Button\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=panel\ pEngine\ pText
+comment1.target=Button(GameMenuPanel,\ GameEngine,\ java.lang.String)
+comment2.params=
+comment2.target=GameEngine\ getEngine()
+comment3.params=
+comment3.target=void\ setImage()
+comment3.text=\r\n\ Set\ the\ image\ of\ the\ button.\r\n\r\n\ @param\ pImageName\ The\ name\ of\ the\ image\ file\ to\ set\ as\ the\ button's\ icon.\r\n
+numComments=4

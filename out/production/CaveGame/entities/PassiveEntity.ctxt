@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=PassiveEntity
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ PassiveEntity\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=pEngine\ pLoc\ speed\ reach\ x\ y
+comment1.target=PassiveEntity(engine.GameEngine,\ engine.Location,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ PassiveEntity\r\n
+comment2.params=state
+comment2.target=void\ setPanic(boolean)
+comment3.params=
+comment3.target=boolean\ isPanic()
+comment4.params=
+comment4.target=void\ move()
+comment5.params=
+comment5.target=void\ panic()
+numComments=6

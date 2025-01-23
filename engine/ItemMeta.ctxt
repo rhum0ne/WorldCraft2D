@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ItemMeta
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ ItemMeta\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=item
+comment1.target=ItemMeta(entities.Item)
+comment2.params=block
+comment2.target=void\ onClick(Block)
+comment3.params=pO
+comment3.target=boolean\ equals(java.lang.Object)
+numComments=4

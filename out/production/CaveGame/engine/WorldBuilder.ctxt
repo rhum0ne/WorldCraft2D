@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=WorldBuilder
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ WorldBuilder\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=world\ engine
+comment1.target=WorldBuilder(World,\ GameEngine)
+comment2.params=save
+comment2.target=void\ load(java.io.File)
+comment3.params=
+comment3.target=void\ create()
+comment4.params=
+comment4.target=void\ createRelief()
+comment5.params=
+comment5.target=void\ generateVeins()
+comment6.params=vein\ location
+comment6.target=void\ spawnVein(OreVein,\ Location)
+comment7.params=
+comment7.target=void\ addVegetation()
+comment8.params=bloc
+comment8.target=void\ spawnPlant(Block)
+comment9.params=loc
+comment9.target=void\ spawnTree(Location)
+numComments=10

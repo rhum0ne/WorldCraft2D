@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=EntitiesManager
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Entities\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=
+comment1.target=EntitiesManager()
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ Entities\r\n
+comment2.params=
+comment2.target=void\ reset()
+comment3.params=
+comment3.target=java.util.Collection\ getEntities()
+comment4.params=
+comment4.target=java.util.Collection\ getLivingEntities()
+comment5.params=pID
+comment5.target=Entity\ getEntity(java.util.UUID)
+comment6.params=pEntity
+comment6.target=void\ add(Entity)
+numComments=7

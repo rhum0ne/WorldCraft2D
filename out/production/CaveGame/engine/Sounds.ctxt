@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Sounds
+comment0.text=\r\n\ The\ Sounds\ enumeration\ defines\ the\ paths\ for\ various\ sound\ effects\ used\ in\ the\ game.\r\n\ \r\n\ @version\ 1.0\r\n
+comment1.params=pPath
+comment1.target=Sounds(java.lang.String)
+comment1.text=\r\n\ Constructs\ a\ Sounds\ enum\ with\ the\ given\ file\ path.\r\n\ \r\n\ @param\ pPath\ The\ file\ path\ for\ the\ sound\ effect.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getPath()
+comment2.text=\r\n\ Retrieves\ the\ file\ path\ associated\ with\ the\ sound\ effect.\r\n\ \r\n\ @return\ The\ file\ path\ of\ the\ sound\ effect.\r\n
+numComments=3
